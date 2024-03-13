@@ -1,2 +1,6 @@
 #include <stdio.h>
-//123
+
+int main()
+{
+    
+}
